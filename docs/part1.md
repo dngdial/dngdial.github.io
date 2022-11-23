@@ -1,1 +1,5 @@
 ![comic page](assets/images/comic/part1/0.jpg)
+![comic page](assets/images/comic/part1/1.jpg)
+![comic page](assets/images/comic/part1/2.jpg)
+![comic page](assets/images/comic/part1/3.jpg)
+![comic page](assets/images/comic/part1/4.jpg)
