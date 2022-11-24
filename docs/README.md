@@ -1,8 +1,3 @@
----
-layout: home
-collectionpage: posts
----
-
 # Welcome to the Omega Earth!
 
 My name is Sam, and I'm making fantasy (and maybe occasionally other) **drawrings**
