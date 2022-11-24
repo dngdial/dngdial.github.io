@@ -3,3 +3,5 @@
 ![comic page](assets/images/comic/part1/2.jpg)
 ![comic page](assets/images/comic/part1/3.jpg)
 ![comic page](assets/images/comic/part1/4.jpg)
+![comic page](assets/images/comic/part1/5.jpg)
+![comic page](assets/images/comic/part1/6.jpg)
