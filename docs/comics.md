@@ -1,4 +1,6 @@
-
+---
+title: Comics
+---
 # The Funny Papers!
 
 I'm working on a comic series called "Savage Adventures" about three pals who fight monsters together.
