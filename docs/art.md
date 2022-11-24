@@ -1,3 +1,6 @@
+---
+title: Art
+---
 # It's ART baby!
 Basilisk's Garden
 ![Basilisk Garden Picture](./assets/images/Basilisks%20Garden%20JPG.jpg "Good Luck Lady")
