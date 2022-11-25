@@ -11,4 +11,4 @@ Read it directly here [Part 1: 3 numbskulls scheme in a bar](part1.md)
 
 **OR**
 
-Download the pdf and take it to go with you here: [download Part 1 Pdf](dngdial.github.io/blob/main/docs/assets/images/comic/part1/Savage%20Adventures%20Part%201%20PDF.pdf)
+Download the pdf and take it to go with you here: [download Part 1 Pdf](assets/images/comic/part1/Savage%20Adventures%20Part%201%20PDF.pdf)
