@@ -1,15 +1,14 @@
 ---
-title: Welcome
+title: About
 ---
 
-# TO THE OMEGA EARTH
+># "If you put your mind to it, you can accomplish anything."
+>
+> *Dr. Emmet Brown*
 
-My name is Sam, and I'm making fantasy (and maybe occasionally other) **drawrings**
-
-## Enjoy my [art](art.md)! **OR** Read my [comics!](comics.md)
-
-### You can buy original art on my [Etsy](https://www.etsy.com/shop/OmegaEarthArt)
-
-#### Or even follow me on [Instagram](https://www.instagram.com/omegaearthart/) OR [Twitter](https://twitter.com/OmegaEarthArt)
-
-![Slimy Tentacle Picture](./assets/images/Slimy%20Tentacles%20JPEG.jpg)
+Ah, a daredevil have we?  
+My name is Sam and I make *drawrings* and play RPGs in Southern Indiana.  
+You can contact me at the following email addresses:  
+thethumpsband@gmail.com  
+**OR**  
+dngdial@yahoo.com
