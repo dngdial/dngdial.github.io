@@ -1,5 +1,5 @@
 ---
-title: About
+title: About+Contact
 ---
 
 ># "If you put your mind to it, you can accomplish anything."
