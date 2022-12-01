@@ -1,8 +1,4 @@
 remote_theme: daviddarnes/garth
 include: README.md
 title: Omega Earth Art
-collections:
-  posts:
-    title: Welcome!
-    output: true
-    description: "My name is Sam, and I'm making fantasy (and maybe occasionally other) drawrings"
+description: "My name is Sam, and I'm making fantasy (and maybe occasionally other) drawrings"
