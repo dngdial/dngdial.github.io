@@ -3,7 +3,7 @@ The first half is [here](part1.md)
 Now let us continue!
 ![comic page](assets/images/comic/part1/12.jpg)
 ![comic page](assets/images/comic/part1/13.jpg)
-![comic page](assets/images/comic/part1/14.jpg)
+![comic page](assets/images/comic/part1/14.jpeg)
 ![comic page](assets/images/comic/part1/15.jpg)
 ![comic page](assets/images/comic/part1/16.jpg)
 ![comic page](assets/images/comic/part1/17.jpg)
