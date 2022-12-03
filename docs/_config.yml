@@ -1,3 +1,4 @@
 remote_theme: daviddarnes/garth
 include: README.md
 title: Omega Earth Art
+logo: "/assets/logo.svg"
