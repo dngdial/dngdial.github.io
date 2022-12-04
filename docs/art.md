@@ -17,3 +17,5 @@ If you're interested in owning some of these, check out my [Etsy](https://www.et
 | <a href="https://omegaearth.art/assets/images/trap.jpg"><img src="./assets/images/trap.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/wind.jpg"><img src="./assets/images/wind.jpg" width=30% height=30%></a> |
 
 <img src="./assets/images/basilisk.jpg" width=20% height=auto>
+
+<a href="./assets/images/basilisk.jpg"><img src="./assets/images/basilisk.jpg" width=30% height=auto></a>
