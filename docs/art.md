@@ -8,14 +8,10 @@ If you're interested in owning some of these, check out my [Etsy](https://www.et
 
 | Basilisk's Garden | Banshee's Scream! | The Creation Engine |
 |:---|:---:|---:|
-| <a href="./assets/images/basilisk.jpg"><img src="./assets/images/basilisk.jpg" width=30% height=auto></a> | <a href="https://omegaearth.art/assets/images/banshee.jpg"><img src="./assets/images/banshee.jpg" width=30% height=auto></a> | <a href="https://omegaearth.art/assets/images/creation.jpg"><img src="./assets/images/creation.jpg" width=30% height=auto></a> |
+| [![Image](./assets/images/basilisk_thumb.jpg)](./assets/images/basilisk.jpg) | [![Image](./assets/images/banshee_thumb.jpg)](./assets/images/banshee.jpg) | [![Image](./assets/images/creation_thumb.jpg)](./assets/images/creation.jpg) |
 | RIP Lantern-Bearer | Sealing the Demon of Malevolence | Surrender! |
-| <a href="https://omegaearth.art/assets/images/lantern.jpg"><img src="./assets/images/lantern.jpg" width=30% height=auto></a> | <a href="https://omegaearth.art/assets/images/sealing.jpg"><img src="./assets/images/sealing.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/surrender.jpg"><img src="./assets/images/surrender.jpg" width=30% height=30%></a> |
+| [![Image](./assets/images/lantern_thumb.jpg)](./assets/images/lantern.jpg) | [![Image](./assets/images/sealing_thumb.jpg)](./assets/images/sealing.jpg) | [![Image](./assets/images/surrender_thumb.jpg)](./assets/images/surrender.jpg) |
 | The Forge-Father| Toad Pirates! | Slimy Tentacles!
-| <a href="https://omegaearth.art/assets/images/forge.jpg"><img src="./assets/images/forge.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/pirates.jpg"><img src="./assets/images/pirates.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/tentacles.jpg"><img src="./assets/images/tentacles.jpg" width=30% height=30%></a> |
+| [![Image](./assets/images/forge_thumb.jpg)](./assets/images/forge.jpg) | [![Image](./assets/images/pirates_thumb.jpg)](./assets/images/pirates.jpg) | [![Image](./assets/images/tentacles_thumb.jpg)](./assets/images/tentacles.jpg) |
 | The Trap is Sprung! | Wind Temple of the Bird Men|
-| <a href="https://omegaearth.art/assets/images/trap.jpg"><img src="./assets/images/trap.jpg" width=30% height=30%></a> | [![Wind Temple](./assets/images/wind_thumb.jpg)](./assets/images/wind.jpg)
-
-<img src="./assets/images/basilisk.jpg" width=20% height=auto>
-
-<a href="./assets/images/basilisk.jpg"><img src="./assets/images/basilisk.jpg" width=30% height=auto></a>
+| [![Image](./assets/images/trap_thumb.jpg)](./assets/images/trap.jpg) | [![Image](./assets/images/wind_thumb.jpg)](./assets/images/wind.jpg) |
