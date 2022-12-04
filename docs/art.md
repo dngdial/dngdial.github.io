@@ -13,5 +13,5 @@ If you're interested in owning some of these, check out my [Etsy](https://www.et
 | [![Image](./assets/images/lantern_thumb.jpg)](./assets/images/lantern.jpg) | [![Image](./assets/images/sealing_thumb.jpg)](./assets/images/sealing.jpg) | [![Image](./assets/images/surrender_thumb.jpg)](./assets/images/surrender.jpg) |
 | The Forge-Father| Toad Pirates! | Slimy Tentacles!
 | [![Image](./assets/images/forge_thumb.jpg)](./assets/images/forge.jpg) | [![Image](./assets/images/pirates_thumb.jpg)](./assets/images/pirates.jpg) | [![Image](./assets/images/tentacles_thumb.jpg)](./assets/images/tentacles.jpg) |
-| Wind Temple of the Bird Men | The Trap is Sprung! |
-| [![Image](./assets/images/wind_thumb.jpg)](./assets/images/wind.jpg) | [![Image](./assets/images/trap_thumb.jpg)](./assets/images/trap.jpg) | 
+| Wind Temple of the Bird Men | The Trap is Sprung! | Underwars! |
+| [![Image](./assets/images/wind_thumb.jpg)](./assets/images/wind.jpg) | [![Image](./assets/images/trap_thumb.jpg)](./assets/images/trap.jpg) | [![Image](./assets/images/under_thumb.jpg)](./assets/images/under.jpg) |
