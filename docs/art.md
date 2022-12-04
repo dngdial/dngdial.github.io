@@ -15,3 +15,5 @@ If you're interested in owning some of these, check out my [Etsy](https://www.et
 | <a href="https://omegaearth.art/assets/images/forge.jpg"><img src="./assets/images/forge.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/pirates.jpg"><img src="./assets/images/pirates.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/tentacles.jpg"><img src="./assets/images/tentacles.jpg" width=30% height=30%></a> |
 | The Trap is Sprung! | Wind Temple of the Bird Men|
 | <a href="https://omegaearth.art/assets/images/trap.jpg"><img src="./assets/images/trap.jpg" width=30% height=30%></a> | <a href="https://omegaearth.art/assets/images/wind.jpg"><img src="./assets/images/wind.jpg" width=30% height=30%></a> |
+
+<img src="./assets/images/basilisk.jpg" width=20% height=auto>
