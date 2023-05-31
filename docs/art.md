@@ -4,6 +4,8 @@ title: Art
 # It's ART baby!
 ## Here's a gallery of some works I've done!
 If you're interested in owning some of these, check out my [Etsy](https://www.etsy.com/shop/OmegaEarthArt/)
+I've also got a chunk of original monster designs for sale in my bestiary "Dungeon Rejects" at drivethru rpg [here](https://www.drivethrurpg.com/product/439285/Dungeon-Rejects?affiliate_id=1515148)
+
 
 
 | Basilisk's Garden | The Creation Engine | Banshee's Scream! |
